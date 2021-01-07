@@ -1,0 +1,134 @@
+2021-01-07 10:02:13.881 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:02:14.689 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:02:14.695 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:02:15.331 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:02:38.893 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:02:39.431 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:02:39.672 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:04:18.289 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:04:18.808 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:04:19.838 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:04:34.939 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:04:36.221 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:04:37.074 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:05:07.749 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:05:09.015 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:05:10.188 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:05:32.525 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:05:32.927 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:05:33.199 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:06:09.675 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:06:09.943 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:06:10.411 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:07:16.860 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:07:17.322 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:07:17.876 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:09:19.711 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:09:20.161 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:09:20.941 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:09:49.784 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:09:50.756 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:09:51.699 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:10:00.578 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:10:01.149 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:10:01.565 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:10:40.397 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:10:41.273 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:10:41.766 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:11:27.020 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:11:28.361 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:11:29.362 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:11:44.171 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:11:45.071 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:11:45.450 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:12:01.128 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:12:02.873 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:12:03.221 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:12:13.040 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:12:13.530 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:12:13.856 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:12:48.015 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:12:48.664 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:12:49.429 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:13:04.761 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:13:05.911 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:13:06.443 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:13:18.384 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:13:19.849 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:13:20.281 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:13:27.326 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:13:27.737 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:13:27.977 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:14:33.451 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:14:34.722 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:14:35.639 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:14:46.382 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:14:46.703 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:14:47.064 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:15:11.892 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:15:13.248 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:15:13.844 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:15:42.177 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:15:43.809 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:15:44.505 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:15:57.950 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:15:59.579 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:16:00.984 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:16:08.938 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:16:09.476 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:16:09.809 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:16:53.461 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:16:54.001 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:16:54.909 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:18:01.004 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:18:01.439 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:18:01.738 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:18:40.728 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:18:41.116 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:18:41.364 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:19:38.907 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:19:39.258 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:19:39.586 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:24:58.653 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:24:59.408 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:24:59.788 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:27:01.550 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:27:03.024 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:27:03.053 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:27:06.066 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 10:29:56.315 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.model.Vo.RelationshipVoKey.
+2021-01-07 10:29:56.814 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:29:56.818 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 10:29:57.414 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 11:18:31.931 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.hjc.dao]' package. Please check your configuration.
+2021-01-07 11:18:34.981 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'logAspect': Unsatisfied dependency expressed through field 'logService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'logServiceImpl': Unsatisfied dependency expressed through field 'logDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.hjc.blog.dao.LogVoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-01-07 11:19:32.526 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.blog.model.Vo.RelationshipVoKey.
+2021-01-07 11:19:33.428 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 11:19:33.434 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 11:19:33.985 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 11:22:24.621 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.blog.model.Vo.RelationshipVoKey.
+2021-01-07 11:22:25.114 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 11:22:25.118 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 11:22:25.570 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 11:40:55.075 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.blog.model.Vo.RelationshipVoKey.
+2021-01-07 11:40:55.609 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 11:40:55.615 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 11:40:56.109 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 16:46:58.089 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.blog.model.Vo.RelationshipVoKey.
+2021-01-07 16:46:58.779 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 16:46:58.786 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 16:46:59.801 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 17:04:26.210 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.blog.model.Vo.RelationshipVoKey.
+2021-01-07 17:04:27.401 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 17:04:27.411 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 17:04:29.102 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 17:05:01.471 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.hjc.blog.BlogApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'webMvcConfig' for bean class [com.hjc.blog.interceptor.WebMvcConfig] conflicts with existing, non-compatible bean definition of same name and class [com.hjc.blog.config.WebMvcConfig]
+2021-01-07 17:05:18.715 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.blog.model.Vo.RelationshipVoKey.
+2021-01-07 17:05:19.808 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 17:05:19.825 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 17:05:20.413 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-07 17:38:09.537 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.hjc.blog.dao]' package. Please check your configuration.
+2021-01-07 17:44:08.668 [restartedMain] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Warn: Could not find @TableId in Class: com.hjc.blog.model.Vo.RelationshipVoKey.
+2021-01-07 17:44:09.302 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 17:44:09.312 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-01-07 17:44:10.397 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
