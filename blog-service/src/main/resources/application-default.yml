@@ -5,7 +5,6 @@ server:
 spring:
   application:
     name: blog-service
-
   jackson:
     #参数意义：
     #JsonInclude.Include.ALWAYS              默认
@@ -15,9 +14,26 @@ spring:
     default-property-inclusion: ALWAYS
     time-zone: GMT+8
     date-format: yyyy-MM-dd HH:mm:ss
+  cache:
+    type: redis
+    redis:
+      use-key-prefix: true
+      time-to-live: 3600000
+      #key-prefix: test
+
   redis:
+    database: 0
+    password:
+    ssl: false
     host: 127.0.0.1
     port: 6379
+    timeout: 5000
+    jedis:
+      pool:
+        max-active: 8
+        max-wait: -1
+        max-idle: 500
+        min-idle: 0
 
   devtools:
     restart:

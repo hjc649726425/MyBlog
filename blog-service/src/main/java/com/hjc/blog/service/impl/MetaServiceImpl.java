@@ -13,14 +13,19 @@ import com.hjc.blog.service.IMetaService;
 import com.hjc.blog.model.Vo.ContentVo;
 import com.hjc.blog.service.IRelationshipService;
 import org.apache.commons.lang3.StringUtils;
+import org.redisson.api.RLock;
+import org.redisson.api.RedissonClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.CacheEvict;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.TimeUnit;
 
 
 @Service
@@ -35,6 +40,9 @@ public class MetaServiceImpl implements IMetaService {
 
     @Autowired
     private IContentService contentService;
+
+    @Autowired
+    RedissonClient redisson;
 
     @Override
     public MetaDto getMeta(String type, String name) {
@@ -64,6 +72,7 @@ public class MetaServiceImpl implements IMetaService {
     }
 
     @Override
+    @Cacheable(value = "metas", key = "#type", sync = true) //sync设置同步，可以防止击穿
     public List<MetaDto> getMetaList(String type, String orderby, int limit) {
         if (StringUtils.isNotBlank(type)) {
             if (StringUtils.isBlank(orderby)) {
@@ -83,6 +92,7 @@ public class MetaServiceImpl implements IMetaService {
 
     @Transactional(rollbackFor = TipException.class)
     @Override
+    @CacheEvict(value = "metas", allEntries=true, beforeInvocation = false)
     public void delete(int mid) {
         MetaVo metas = metaDao.selectById(mid);
         if (null != metas) {
@@ -114,6 +124,7 @@ public class MetaServiceImpl implements IMetaService {
 
     @Transactional(rollbackFor = TipException.class)
     @Override
+    @CacheEvict(value = "metas", allEntries=true, beforeInvocation = false)
     public void saveMeta(String type, String name, Integer mid) {
         if (StringUtils.isNotBlank(type) && StringUtils.isNotBlank(name)) {
 
@@ -143,6 +154,7 @@ public class MetaServiceImpl implements IMetaService {
 
     @Transactional(rollbackFor = TipException.class)
     @Override
+    @CacheEvict(value = "metas", allEntries=true, beforeInvocation = false)
     public void saveMetas(Integer cid, String names, String type) {
         if (null == cid) {
             throw new TipException("项目关联id不能为空");
@@ -204,6 +216,7 @@ public class MetaServiceImpl implements IMetaService {
 
     @Transactional(rollbackFor = TipException.class)
     @Override
+    @CacheEvict(value = "metas", allEntries=true, beforeInvocation = false)
     public void saveMeta(MetaVo metas) {
         if (null != metas) {
             metaDao.insert(metas);
@@ -212,6 +225,7 @@ public class MetaServiceImpl implements IMetaService {
 
     @Transactional(rollbackFor = TipException.class)
     @Override
+    @CacheEvict(value = "metas", allEntries=true, beforeInvocation = false)
     public void update(MetaVo metas) {
         if (null != metas && null != metas.getMid()) {
             metaDao.updateById(metas);
